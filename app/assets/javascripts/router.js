@@ -1,0 +1,3 @@
+EmberTest.Router.map(function() {
+
+});

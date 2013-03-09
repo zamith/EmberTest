@@ -18,4 +18,5 @@
 //= require_self
 //= require ember_test
 EmberTest = Ember.Application.create();
+Ember.Location = Ember.HistoryLocation;
 //= require_tree .
